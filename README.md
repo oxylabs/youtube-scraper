@@ -1,6 +1,6 @@
 # YouTube Scraper
 
-With [<u>Yelp
+With [<u>YouTube
 Scraper</u>](https://oxylabs.io/products/scraper-api/web/youtube), you
 can easily collect public YouTube data without blocks. Follow this guide
 to see how to scrape YouTube using Oxylabs’ [<u>Scraper
