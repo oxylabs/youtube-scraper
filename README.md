@@ -76,3 +76,6 @@ details, titles, descriptions, playlists, and more. Reach out to us via
 [<u>live chat</u>](https://oxylabs.io/) or
 [<u>email</u>](mailto:support@oxylabs.io) in case you have any
 questions.
+
+
+Also, check this tutorial on [pypi](https://pypi.org/project/youtube-video-scraper-api/)
