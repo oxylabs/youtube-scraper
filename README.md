@@ -1,4 +1,4 @@
-
+<img width="787" alt="image" src="https://github.com/user-attachments/assets/1e889a97-94fb-4a00-bf4c-242af3d91832" />
 <h2 align="center">
    YouTube Scraper
 </h2>
@@ -6,7 +6,7 @@
 [![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
 
 
-[![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/GbxmdGhZjq)
+[![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.com/invite/Pds3gBmKMH)
 
 With [<u>YouTube
 Scraper</u>](https://oxylabs.io/products/scraper-api/web/youtube), you
