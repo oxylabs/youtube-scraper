@@ -1,4 +1,4 @@
-<img width="787" alt="image" src="https://github.com/user-attachments/assets/1e889a97-94fb-4a00-bf4c-242af3d91832" />
+
 <h2 align="center">
    YouTube Scraper
 </h2>
