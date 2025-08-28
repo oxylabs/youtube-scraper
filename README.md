@@ -16,7 +16,7 @@ API</u>](https://oxylabs.io/products/scraper-api).
 
 ## How it works
 
-Simply, send a web request to our API and you’ll retrieve the HTML of
+Simply, send a web request to our API and you’ll retrieve the HTML, parsed JSSON, or Markdown output of
 any public YouTube page you wish to scrape.
 
 ### Python code example
